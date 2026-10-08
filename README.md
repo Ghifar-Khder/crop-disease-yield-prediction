@@ -110,3 +110,7 @@ pip install -r requirements.txt
 * **Email:** ghifarkhder2000@gmail.com
 * **LinkedIn:** [www.linkedin.com/in/ghifar-khder](https://www.linkedin.com/in/ghifar-khder)
 * **Repository:** https://github.com/Ghifar-Khder/crop-disease-yield-prediction
+
+## Author
+
+[Ghifar Khder](https://ghifar-khder.github.io/portfolio/)
